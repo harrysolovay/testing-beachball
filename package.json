@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "name": "@never-use-this/testing-beachball",
+  "name": "@neverusethis/testing-beachball",
   "license": "Apache-2.0",
   "module": "esm/index.js",
   "main": "cjs/index.js",
