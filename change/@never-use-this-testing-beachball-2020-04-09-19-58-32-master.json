@@ -1,0 +1,8 @@
+{
+  "type": "patch",
+  "comment": "Installing––let's see what happens",
+  "packageName": "@never-use-this/testing-beachball",
+  "email": "harrysolovay@gmail.com",
+  "dependentChangeType": "patch",
+  "date": "2020-04-10T02:58:32.817Z"
+}
