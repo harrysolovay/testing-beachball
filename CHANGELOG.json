@@ -2,6 +2,35 @@
   "name": "@neverusethis/testing-beachball",
   "entries": [
     {
+      "date": "Fri, 10 Apr 2020 03:37:17 GMT",
+      "tag": "@neverusethis/testing-beachball_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "patch": [
+          {
+            "comment": "laksdjf my description here ;)",
+            "author": "harrysolovay@gmail.com",
+            "commit": "cb9cb05ce11b7dd615f09f34b0b67980b2e981c6",
+            "package": "@neverusethis/testing-beachball"
+          },
+          {
+            "comment": "laskdfksldfkjasdkfj",
+            "author": "harrysolovay@gmail.com",
+            "commit": "cb9cb05ce11b7dd615f09f34b0b67980b2e981c6",
+            "package": "@neverusethis/testing-beachball"
+          }
+        ],
+        "major": [
+          {
+            "comment": "some new feature, it's gonna be crazy",
+            "author": "harrysolovay@gmail.com",
+            "commit": "cb9cb05ce11b7dd615f09f34b0b67980b2e981c6",
+            "package": "@neverusethis/testing-beachball"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 10 Apr 2020 03:16:03 GMT",
       "tag": "@neverusethis/testing-beachball_v0.2.0",
       "version": "0.2.0",
