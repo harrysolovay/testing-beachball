@@ -1,4 +1,5 @@
 {
+  "version": "0.1.0",
   "name": "@never-use-this/testing-beachball",
   "license": "Apache-2.0",
   "module": "esm/index.js",
@@ -87,7 +88,6 @@
     "build": "yarn build:esm & yarn build:cjs & yarn build:types",
     "example": "ts-node example",
     "change": "beachball change",
-    "check": "beachball check",
-    "beachball:publish": "beachball publish"
+    "check": "beachball check"
   }
 }

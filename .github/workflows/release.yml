@@ -17,7 +17,6 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn test
       - run: yarn build
-      - run: yarn semantic-release
+      - run: yarn beachball publish -n $NPM_TOKEN
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           NPM_TOKEN: ${{secrets.NPM_TOKEN}}
