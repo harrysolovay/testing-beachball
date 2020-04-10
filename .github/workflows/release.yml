@@ -17,6 +17,8 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn test
       - run: yarn build
-      - run: yarn beachball publish -n $NPM_TOKEN -y
+      - run: git config user.email "harrysolovay@gmail.com"
+      - run: git config user.name "Harry Solovay"
+      - run: yarn beachball publish -n $NPM_TOKEN
         env:
           NPM_TOKEN: ${{secrets.NPM_TOKEN}}
