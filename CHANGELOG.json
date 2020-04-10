@@ -1,0 +1,20 @@
+{
+  "name": "@neverusethis/testing-beachball",
+  "entries": [
+    {
+      "date": "Fri, 10 Apr 2020 03:16:03 GMT",
+      "tag": "@neverusethis/testing-beachball_v0.2.0",
+      "version": "0.2.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "made some crazy changes to this thing yo",
+            "author": "harrysolovay@gmail.com",
+            "commit": "de97130fbc3f52052e82f84850617d11e8db408c",
+            "package": "@neverusethis/testing-beachball"
+          }
+        ]
+      }
+    }
+  ]
+}
