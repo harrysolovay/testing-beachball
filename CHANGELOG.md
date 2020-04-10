@@ -1,8 +1,16 @@
 # Change Log - @neverusethis/testing-beachball
 
-This log was last generated on Fri, 10 Apr 2020 03:37:17 GMT and should not be manually modified.
+This log was last generated on Fri, 10 Apr 2020 03:52:27 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.1
+
+Fri, 10 Apr 2020 03:52:27 GMT
+
+### Patches
+
+- undefined (harrysolovay@gmail.com)
 
 ## 1.0.0
 

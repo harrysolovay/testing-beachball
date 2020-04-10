@@ -2,6 +2,20 @@
   "name": "@neverusethis/testing-beachball",
   "entries": [
     {
+      "date": "Fri, 10 Apr 2020 03:52:27 GMT",
+      "tag": "@neverusethis/testing-beachball_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "harrysolovay@gmail.com",
+            "commit": "a0a0e6e2b3da45a7440300e4e9bc090620f1b0ce",
+            "package": "@neverusethis/testing-beachball"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 10 Apr 2020 03:37:17 GMT",
       "tag": "@neverusethis/testing-beachball_v1.0.0",
       "version": "1.0.0",
