@@ -1,8 +1,0 @@
-{
-  "type": "major",
-  "comment": "some new feature, it's gonna be crazy",
-  "packageName": "@neverusethis/testing-beachball",
-  "email": "harrysolovay@gmail.com",
-  "dependentChangeType": "patch",
-  "date": "2020-04-10T03:31:09.858Z"
-}
