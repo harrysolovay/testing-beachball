@@ -1,8 +1,16 @@
 # Change Log - @neverusethis/testing-beachball
 
-This log was last generated on Fri, 10 Apr 2020 03:52:27 GMT and should not be manually modified.
+This log was last generated on Mon, 13 Apr 2020 00:20:59 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.2
+
+Mon, 13 Apr 2020 00:20:59 GMT
+
+### Patches
+
+- fixed the commit linting (harrysolovay@gmail.com)
 
 ## 1.0.1
 
