@@ -4,7 +4,7 @@ on:
     branches:
       - beta
 jobs:
-  release:
+  beta-release:
     name: Beta Release
     runs-on: ubuntu-latest
     steps:
@@ -17,6 +17,6 @@ jobs:
       - run: yarn build
       - run: git config user.email "harrysolovay@gmail.com"
       - run: git config user.name "Harry Solovay"
-      - run: yarn beachball publish -b beta -t beta -m 'chore{{:}} release beta version' release -n $NPM_TOKEN -y
+      - run: yarn beachball publish -b beta -t beta -m 'chore{{:}} release new version' release -n $NPM_TOKEN -y
         env:
           NPM_TOKEN: ${{secrets.NPM_TOKEN}}
