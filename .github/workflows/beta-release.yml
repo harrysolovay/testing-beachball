@@ -1,8 +1,8 @@
-name: Release
+name: Beta Release
 on:
   push:
     branches:
-      - master
+      - beta
 jobs:
   release:
     name: Release
@@ -17,6 +17,6 @@ jobs:
       - run: yarn build
       - run: git config user.email "harrysolovay@gmail.com"
       - run: git config user.name "Harry Solovay"
-      - run: yarn beachball publish -m 'chore{{:}} release new version' release -n $NPM_TOKEN -y
+      - run: yarn beachball publish -b beta -t beta -m 'chore{{:}} release beta version' release -n $NPM_TOKEN -y
         env:
           NPM_TOKEN: ${{secrets.NPM_TOKEN}}
